@@ -1,2 +1,2 @@
 # Typora_theme
-Typora Black Theme css
+Typora Night Theme css
