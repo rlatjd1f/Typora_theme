@@ -137,7 +137,7 @@ h1 {
 }
 
 h2 {
-    font-size: 1.63rem;
+    font-size: 1.6rem;
     /* 24px */
     line-height: 1.875rem;
     /* 30px */
@@ -146,10 +146,15 @@ h2 {
     letter-spacing: -1px;
     font-weight: bold;
 	color: lightgoldenrodyellow;
+
+	clear: both;
+	border-bottom:2px solid gray;
+	border-left:10px solid gray;
+	padding: 5px 15px;	
 }
 
 h3 {
-    font-size: 1.17rem;
+    font-size: 1.4rem;
     /* 18px */
     line-height: 1.5rem;
     /* 24px */
@@ -157,7 +162,7 @@ h3 {
     /* 24px */
     letter-spacing: -1px;
     font-weight: bold;
-	color: chartreuse;
+	color: gold;
 }
 
 h4 {
