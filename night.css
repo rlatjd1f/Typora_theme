@@ -52,7 +52,7 @@ body {
 }
 
 #write {
-    max-width: 914px;
+    max-width: 960px;
 }
 
 
@@ -161,8 +161,10 @@ h3 {
     margin-bottom: 1.5rem;
     /* 24px */
     letter-spacing: -1px;
+	color: white;
     font-weight: bold;
-	color: gold;
+	border-left: 10px aqua solid;
+	padding-left: 15px;
 }
 
 h4 {
@@ -332,11 +334,14 @@ cite {
 }
 
 blockquote {
-    padding-left: 1.875rem;
-    margin: 0 0 1.875rem 1.875rem;
-    border-left: solid 2px #474d54;
-    padding-left: 30px;
-    margin-top: 35px;
+    /* padding-left: 1.875rem; */
+    /* margin: 0 0 1.875rem 1.875rem; */
+    /* border-left: solid 2px #474d54; */
+    /* padding-left: 30px; */
+    /* margin-top: 35px; */
+	padding: 0 1em;
+	color: #6a737d;
+	border-left: .25em solid #dfe2e5;
 }
 
 pre,
@@ -441,9 +446,9 @@ mark {
     background: #D3D40E;
 }
 
-blockquote {
-    color: #9DA2A6;
-}
+/* blockquote { */
+    /* color: #9DA2A6; */
+/* } */
 
 table a {
     color: #DEDEDE;
